@@ -1,0 +1,16 @@
+{
+  "aggregation": "max",
+  "thresholds": {
+    "flu": 0.7,
+    "gac": 0.6,
+    "pia": 0.25,
+    "vio": 0.65,
+    "voi": 0.6
+  },
+  "tuned_on": "IRMAS test set, half of the songs (seed 0)",
+  "report_half": {
+    "mAP": 0.6652929631021789,
+    "micro_f1": 0.6943978530694398,
+    "macro_f1": 0.6037235070172908
+  }
+}

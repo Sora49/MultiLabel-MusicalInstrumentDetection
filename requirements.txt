@@ -1,0 +1,13 @@
+numpy>=2.1
+librosa>=0.10
+soundfile>=0.12
+scikit-learn>=1.5
+torch>=2.3
+matplotlib>=3.8
+pandas>=2.2
+tqdm>=4.66
+joblib>=1.4
+streamlit>=1.46
+altair>=5.0
+# only for train_pretrained.py (PANNs comparison):
+# panns_inference>=0.1

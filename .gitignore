@@ -1,0 +1,29 @@
+# Datasets (IRMAS licence forbids redistribution)
+IRMAS-TrainingData/
+IRMAS-TestingData/
+IRMAS-unused/
+
+# Experiment outputs, logs and large regenerable files
+results_3class/
+results_5class_ablation/
+results_improve/
+results_5class_*.log
+results_5class_cnn_log.txt
+results_multilabel/*.log
+results_multilabel/*.npz
+testset_eval_log.txt
+testset_predictions.csv
+/thresholds.json
+baseline_model.pkl
+pretrained_model.pkl
+panns_embeddings.npz
+
+# Personal notes
+CLAUDE.md
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
