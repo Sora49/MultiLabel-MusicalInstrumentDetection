@@ -119,3 +119,5 @@ in `~/.cache/instrument_cnn`.
   Techniques for Predominant Instrument Recognition in Musical Audio Signals*, ISMIR 2012 (IRMAS).
 - Comparison model: Kong et al., *PANNs: Large-Scale Pretrained Audio Neural Networks for Audio
   Pattern Recognition*, 2020.
+
+<!-- Experiment 2: Git and CI/CD workflow practice -->
